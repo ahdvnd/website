@@ -125,8 +125,7 @@ class Intro extends React.Component<Props, null> {
         <div className="rest">
           <h1>The Fullstack Tutorial for GraphQL</h1>
           <p>
-            The free and open-source tutorial to learn all around GraphQL to go from
-            zero to production.
+            Learn econometrics and statistics the fun and intuitive way.
           </p>
           <div className="center-container">
             <div

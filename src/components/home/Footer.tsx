@@ -35,18 +35,16 @@ export default function Footer() {
       `}</style>
       <span>
         Made with <span className="love"> ♥ </span> by{' '}
-        <a href="https://www.prisma.io" target="_blank">Prisma</a> and the
-        amazing
-        GraphQL community
+        The Art of Metrics
       </span>
       <div className="logos">
-        <a href="https://slack.prisma.io" target="_blank">
+        <a href="https://www.artofmetrics.com" target="_blank">
           <img src={require('../../assets/icons/slack.svg')} alt="" />
         </a>
-        <a href="https://twitter.com/prisma" target="_blank">
+        <a href="https://twitter.com/artofmetrics" target="_blank">
           <img src={require('../../assets/icons/twitter.svg')} alt="" />
         </a>
-        <a href="https://github.com/howtographql/howtographql" target="_blank">
+        <a href="https://twitter.com/artofmetrics" target="_blank">
           <Icon
             src={require('graphcool-styles/icons/fill/github.svg')}
             color={$v.black}
