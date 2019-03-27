@@ -59,13 +59,14 @@ export default function IntroSteps({ steps, location }: Props) {
       <div className="steps-content">
         <LeftColumn className="steps-description" light={true}>
           <div className="basic-graphql">
-            <h3>GraphQL Fundamentals</h3>
+            <h3>On Causal Inference</h3>
             <div className="duration">
               <Duration duration={basicsDuration} total={true} />
             </div>
             <p>
-              In the first chapter, you’ll learn about
-              the core concepts of GraphQL. {' '}
+              This course is purely non-technical. In this course
+              You will learn what causal inference means and how we
+              go from cause to effect. {' '}
             </p>
           </div>
           <div className="advanced-graphql">

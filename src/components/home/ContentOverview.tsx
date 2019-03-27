@@ -70,7 +70,7 @@ export default function ContentOverview({ location, steps }: Props) {
           <div className="overview">
             <div className="block left">
               <Stack
-                name="GraphQL Fundamentals"
+                name="GraphQL Fundamentalss"
                 steps={steps.basics}
                 location={location}
               />

@@ -101,7 +101,7 @@ export default class Nav extends React.Component<Props, {}> {
         </div>
         <a
           className="element github"
-          href="https://github.com/howtographql/howtographql"
+          href="https://github.com/artofmetrics/website"
           target="_blank"
         >
           <Icon
