@@ -287,7 +287,7 @@ export default class Chooser extends React.Component<Props, State> {
               <div className="list-item">
                 <Link to={'/choose/'}>
                   <span>
-                    Choose your favorite technology
+                    Choose your course
                   </span>
                 </Link>
               </div>

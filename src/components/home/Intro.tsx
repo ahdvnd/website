@@ -123,7 +123,7 @@ class Intro extends React.Component<Props, null> {
           }
         `}</style>
         <div className="rest">
-          <h1>The Fullstack Tutorial for GraphQL</h1>
+          <h1>The Art of Metrics</h1>
           <p>
             Learn econometrics and statistics the fun and intuitive way.
           </p>
